@@ -1,15 +1,12 @@
-import React from 'react';
-import NavBar from './components/NavBar';
-import AppRoutes from './routes/AppRoutes';
-import "./index.css"
+import React from "react";
+import "./index.css";
+import Home from "./pages/Home";
 
 const App = () => {
   return (
-    <div className="App">
-      <main>
-        <AppRoutes />
-      </main>
-    </div>
+    <>
+      <Home />
+    </>
   );
 };
 

@@ -1,5 +1,6 @@
 {
-  "name": "fronttransact",
+  "name": "transacttest",
+  "homepage": "https://anget91.github.io/transacttest/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
